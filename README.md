@@ -2,7 +2,7 @@
 
 ## Fun facts about me!
 
-* I study arts *(why am I doing this...)*
+* I study arts *(why am I doing this?)*
 * I limit myself to one coffee a week
 * I cannot do a handstand
 
@@ -11,4 +11,4 @@
 1. A **meme**!
 2. A **GIF**! 
 3. And some **HTML**!
-4. And a report, I *guess*
+4. And a report, I *guess*...

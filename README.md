@@ -2,9 +2,9 @@
 
 ## Fun facts about me!
 
-* I am an arts student *(why am I doing this...)*
+* I study arts *(why am I doing this...)*
 * I limit myself to one coffee a week
-* I do not know how to handstand
+* I cannot do a handstand
 
 ## **Included in this repository:**
 

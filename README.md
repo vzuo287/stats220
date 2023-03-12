@@ -3,8 +3,8 @@
 ## Fun facts about me!
 
 * I study arts *(why am I doing this?)*
-* I limit myself to one coffee a week
-* I cannot do a handstand
+* I limit myself to one coffee a week ☕️
+* I cannot do a handstand 🤸‍♀️
 
 ## **Included in this repository:**
 

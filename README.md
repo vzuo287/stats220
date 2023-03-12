@@ -13,3 +13,5 @@
 2. A **GIF**! 
 3. And some **HTML**!
 4. And a **report**, I *guess*... 😔
+
+.nojekyll

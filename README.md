@@ -1,4 +1,4 @@
-# **stats220**
+# **STATS220**
 
 ## Fun facts about me!
 

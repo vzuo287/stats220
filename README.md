@@ -1,6 +1,6 @@
 ### **stats220**
 
-##Fun facts about me!##
+## Fun facts about me!
 
 * I am an arts student *(why am I doing this...)*
 * I limit myself to one coffee a week

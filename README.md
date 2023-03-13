@@ -12,4 +12,4 @@
 1. A **meme**!
 2. A **GIF**! 
 3. And some **HTML**!
-4. And a **report**, I *guess*... 😔
+4. And a **report**, I guess... 😔
